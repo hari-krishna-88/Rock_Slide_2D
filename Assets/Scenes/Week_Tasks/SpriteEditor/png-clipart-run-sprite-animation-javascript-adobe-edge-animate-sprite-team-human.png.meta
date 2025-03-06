@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: b2a31928404510a469e4521b47fd2566
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60c5e039590f54e93986de313e66f3
+      internalID: 689099321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86379483e5248274ca62747b3f730ba2
+      internalID: 899230201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf39b4e0a6d02645967491cc7dec59d
+      internalID: -328834980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5305f450b10f94c897dc7e95d1de94
+      internalID: 1594799593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056a507bb82beb04ca03329807c802f0
+      internalID: -1423475545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8417f4363c2bb1478581a60fd3652d7
+      internalID: -359209320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4d09077b7bc3f4391c8528f98a994a
+      internalID: 2000910620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635174dc1942c7b4da0429b8bb2be4c2
+      internalID: 1905627725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca20f6e64d57a4bac3f64281589ff5
+      internalID: -972495781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 180
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9c77323cb6d34f90348ba8d3f8d63
+      internalID: -1376490560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624c115543594241a5af4971174829e
+      internalID: -916954876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da20e012385a246a27d89da21ebae0
+      internalID: -1062497000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cd36123323df048a396380ffb2b31f
+      internalID: -719971822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223d11b4ba2b094cb819087ac6f7222
+      internalID: 1030782969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae0f3c2016eddc4ab9df78e2808e555
+      internalID: 1842183741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b91fd41068a75b46966d1e31fae3153
+      internalID: 1790437259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa6aa86a19067940b7e0cab96b09326
+      internalID: -658025937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0426542445ad4bad15d2cb98c8601
+      internalID: -1187371223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6c5a7f4b9497d44b701d20c2b387b8
+      internalID: -850932481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 90
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57b7219943ebc340a2a28f3dc2b87a1
+      internalID: -1400434358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df2c6e8beb2ad478920d6b2e6450b4
+      internalID: 997125675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1329114683ac274faf22d29644c5875
+      internalID: -1451352352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51533a14042ef7640aa534d44e400552
+      internalID: -1393281283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8da75d31263c24b98afe93b58b4915
+      internalID: -1904247184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeeff74cb2275444ab1dea2f4e5b304
+      internalID: -7645203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7c199860da074abab875d7bf6a3ec
+      internalID: 137624035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe1fcaee9491a4f96dd179b7411c55
+      internalID: -2061570388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc178d4223b849948830a7523db02612
+      internalID: -1275321138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e4b6ad350e9b479d984a6829ed255
+      internalID: 2020149742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_29
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8884ce58954a9459b236d2c9bdb453
+      internalID: -159972314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_0: 689099321
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_1: 899230201
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_10: -916954876
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_11: -1062497000
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_12: -719971822
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_13: 1030782969
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_14: 1842183741
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_15: 1790437259
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_16: -658025937
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_17: -1187371223
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_18: -850932481
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_19: -1400434358
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_2: -328834980
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_20: 997125675
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_21: -1451352352
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_22: -1393281283
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_23: -1904247184
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_24: -7645203
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_25: 137624035
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_26: -2061570388
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_27: -1275321138
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_28: 2020149742
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_29: -159972314
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_3: 1594799593
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_4: -1423475545
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_5: -359209320
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_6: 2000910620
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_7: 1905627725
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_8: -972495781
+      png-clipart-run-sprite-animation-javascript-adobe-edge-animate-sprite-team-human_9: -1376490560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
